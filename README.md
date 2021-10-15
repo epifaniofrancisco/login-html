@@ -1,6 +1,5 @@
-# login-html
 <div align="center">
-  <h1>LOGIN/h1>
+  <h1>LOGIN - HTML5 e CSS3</h1>
 </div>
 
 - [Descrição](#descrição-do-projeto): uma breve descrição do projeto;
